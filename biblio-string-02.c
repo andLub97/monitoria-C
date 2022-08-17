@@ -5,7 +5,7 @@ int main(){
 
     char str1[20], str2[20], str3[20];
 
-    strcpy(str1, "quinta");
+    strcpy(str1, "quint");
     strcpy(str2, "quinta");
 
     strcpy(str3, "andre@gmail");
